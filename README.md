@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @brian832.
+- 👋 Hi, I’m brian from Kenya and web developer.
 - 👀 I’m interested in web development and good in HTML, CSS and Js.
-- 🌱 I’m currently learning php and MySQL 
+- 🌱 I’m currently learning php and MySQL
+- im looking to collborate on anything frontend for now. 
 - 📫 Reach me through email at irungubrian6@gmail.com
