@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brian832.
+- 👀 I’m interested in web development and good in HTML, CSS and Js.
+- 🌱 I’m currently learning php and MySQL 
+- 📫 Reach me through email at irungubrian6@gmail.com
