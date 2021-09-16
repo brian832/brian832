@@ -1,5 +1,4 @@
 - 👋 Hi, I’m brian from Kenya and web developer.
-- 👀 I’m interested in web development and good in HTML, CSS and still polishing skills on Js.
-- 🌱 I’m currently learning php and MySQL
-- ~im looking to collborate on anything frontend for now. 
+- 👀 I’m interested in web development and good PHP, HTML, CSS and still polishing skills on Js.
+- ~im looking to collborate on anything frontend for now and backend. 
 - 📫 Reach me through email at irungubrian6@gmail.com
